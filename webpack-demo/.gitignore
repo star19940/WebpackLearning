@@ -1,8 +1,10 @@
 node_modules/
 .DS_Store
 **/.DS_Store
+../.DS_Store
 .history/
 .idea/
 build/
 yarn.lock
 package-lock.json
+dist/
